@@ -1,7 +1,7 @@
 
 - 👋👋 Hi, I’m Siddhartha 💞️ Software Engineer | Tech and Coding Enthusiast
 - 👀 I’m interested in Coding, Web Development, Web Designing application and Love Painting and Illustration....
-- 🌱 I always love to explore new Technologies
+- 🌱 I always love to explore new Tools & Technologies
 - 📫 you can reach me at mail.04.siddhartha@gmail.com
 
 <!--
