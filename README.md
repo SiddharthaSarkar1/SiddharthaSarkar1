@@ -11,11 +11,14 @@
 - ---
 
  <p>
- <img align="left" alt="Languages Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaSarkar1&langs_count=8&layout=compact&hide=html" width="350"/></p>
-  <p>
+ <img align="left" alt="Languages Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaSarkar1&langs_count=8&layout=compact&hide=html" width="350"/>
+ </p>
+ <p>
   &nbsp;<img align="center" alt="Dipta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SiddharthaSarkar1&show_icons=true" width="350" />
-  </p>
-  
+ </p>
+ <br/>
+    <br/>
+      <br/> 
 - ---
 
 ### Frontend
