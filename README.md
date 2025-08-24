@@ -3,10 +3,7 @@
 
 **`Fullstack Developer`**
 
-- 👋👋 Hi, I’m Siddhartha 💞️ Software Engineer | Tech and Coding Enthusiast
-- 👀 I’m interested in Coding, Web Development, Web Designing application and Love Painting and Illustration....
-- 🌱 I always love to explore new Tools & Technologies
-- 📫 you can reach me at mail.04.siddhartha@gmail.com
+- Hi, I'm Siddhartha 👋, a Software Engineer and Tech Enthusiast passionate about Coding, Web Development, Design, and and Artificial Intelligence 🤖. Currently learning everything 😅, building new projects, and growing from mistakes. Always exploring new tools and technologies. When not coding, you can find me painting or illustrating 🎨. Let's connect and build something amazing! 📧 mail.04.siddhartha@gmail.com
 
 - ---
 
