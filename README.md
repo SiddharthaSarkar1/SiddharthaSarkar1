@@ -10,6 +10,14 @@
 
 - ---
 
+ <p>
+ <img align="left" alt="Languages Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaSarkar1&langs_count=8&layout=compact&hide=html" width="350"/></p>
+  <p>
+  &nbsp;<img align="center" alt="Dipta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SiddharthaSarkar1&show_icons=true" width="350" />
+  </p>
+  
+- ---
+
 ### Frontend
 
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
